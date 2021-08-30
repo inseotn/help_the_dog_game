@@ -1,12 +1,7 @@
 # help_the_doh_game
-Jogo desenvolvido no curso de Desenvolvimento de Jogos e Socioemocional da Fly Educação e Cultura, Toti e Playlearn
-Olá! Tudo bem?
-Esse é o jogo que eu fiz para o final do meu curso de Desenvolvimento de Jogos e Socioemocional da Fly Educação e Cultura, Toti e Playlearn, gostaria de ser meu Testeplay?
+Game developed in the course of Game Development and Socioemotional at Fly Educação e Cultura, Toti, and Playlearn Hello! Alright? This is the game I made for the end of my Game Development and Socioemotional course at Fly Educação e Cultura, Toti and Playlearn, would you like to be my Testeplay?
 
-É só jogar e deixar seu feedback
-Se puder, preencha o formulário a seguir:
-https://forms.gle/XM31UaNfQnxx9Gkn8
+Just play and leave your feedback If you can, fill in the form below: https://forms.gle/XM31UaNfQnxx9Gkn8
 
-Agradeço sua atenção 
-Divirta-se!
-=)
+Thank you for your attention! 
+Enjoy! =)
